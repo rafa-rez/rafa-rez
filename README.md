@@ -8,7 +8,7 @@ I've been learning how to code since 2019, and boy it's been a though way. But I
 
 * 🌍  I'm based in Lavras - Minas Gerais
 * ✉️  You can contact me at [rafaelrez2004@gmail.com](mailto:rafaelrez2004@gmail.com)
-* 🧠  I'm learning Developing my skills with the AWS, focusing more on the ML - IA features
+* 🧠  I'm developing my skills with the AWS, focusing more on the ML - IA features
 * ⚡  I have a thing for the sales part of everything, and I do rock on it!
 
 ### Skills
